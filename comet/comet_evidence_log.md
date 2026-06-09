@@ -444,3 +444,671 @@ Show-your-math proof. Appended each phase. URLs are pages actually opened during
 - Sample 2: `heather.tupper@wyo.gov` — https://wyomingbusiness.org/about/team/
 - Pattern: first.last | convention_confidence: 75
 - Math: josh.dorrell@wyo.gov + heather.tupper@wyo.gov => first.last. Over 30 staff members listed on the team page follow the first.last pattern, with a few instances of numbers (e.g., emma.gregg1) likely for deduplication.
+
+---
+
+## PHASE 3 — Current Officeholder
+
+### R01 — Alabama — The Alabama Development Fund
+- Current: Ellen McNair, Secretary of Commerce
+- Confirmed: Y — [Made in Alabama Staff Directory](https://www.madeinalabama.com/resources/staff-directory/) dated 2026-05-14
+- Note: Listed leader confirmed still in role as of June 2026; originally appointed January 1, 2024.
+
+### R02 — Alaska — The Alaska Department of Commerce, Community, and Economic Development
+- Current: Julie Sande, Commissioner, Department of Commerce, Community and Economic Development
+- Confirmed: Y — [Alaska.gov Commissioner's Contact List](https://www.alaska.gov/commlist.html) dated 2026-06-09
+- Note: Listed leader Julie Sande confirmed still in role as of June 2026. Evidence from the official state commissioner list and 2026 board meeting minutes confirm her ongoing tenure.
+
+### R03 — American Samoa — The American Samoa Department of Commerce
+- Current: Ali’imuamua Magdalene P. Petaia, Director of Commerce
+- Confirmed: Y — https://www.doc.as.gov/about-9 dated 2025-02-12
+- Note: Listed leader Ali’imuamua Magdalene P. Petaia (also known as Lina Petaia) confirmed still in role; she was officially confirmed by the Senate in February 2025.
+
+### R04 — Arizona — The Arizona Commerce Authority
+- Current: Sandra Watson, President & CEO
+- Confirmed: Y — https://www.azcommerce.com/about-us/executive-management-team/ dated 2026-06-09
+- Note: Listed leader confirmed still in role as of June 2026. Verified on the official Arizona Commerce Authority executive team page and reflected in recent organizational activities dated May and June 2026.
+
+### R05 — Arkansas — The Arkansas Economic Development Commission
+- Current: Clint O'Neal, Executive Director
+- Confirmed: Y — https://www.arkansasedc.com/employee-detail/clint-o-neal dated 2026-03-23
+- Note: Clint O'Neal is confirmed still in the role of Executive Director as of March 2026 per social media and June 2026 per the official agency website. He was originally appointed in January 2023.
+
+### R06 — California — The California Governor's Office of Business and Economic Development
+- Current: Dee Dee Myers, Senior Advisor and Director
+- Confirmed: Y — https://business.ca.gov/about/go-biz-team/ dated 2026-05-27
+- Note: Listed leader confirmed still in role as of June 2026. Recently mentioned as Director in May 2026 press release and April 2026 legislative hearing.
+
+### R07 — Colorado — The Colorado Office of Economic Development and International Trade
+- Current: Eve Lieberman, Executive Director
+- Confirmed: Y — https://content.leg.colorado.gov/sites/default/files/OEDIT%20SMART%20Act%20slides%20FY26.pdf dated 2026-01-14
+- Note: Eve Lieberman confirmed still in role as Executive Director in an OEDIT SMART Act presentation to the Joint Business Committee dated 2026-01-14.
+
+### R08 — Connecticut — The Connecticut Department of Economic and Community Development
+- Current: Daniel H. O'Keefe, Commissioner
+- Confirmed: Y — https://portal.ct.gov/decd/content/about_decd/about-decd-office/about-decd/commissioner dated 2026-06-09
+- Note: listed leader confirmed still in role as of June 2026; page reflects recent leadership changes from March 2026
+
+### R09 — Delaware — The Delaware Division of Small Business
+- Current: CJ Bell, Division Director
+- Confirmed: Y — https://spotlightdelaware.org/2026/04/23/sponsored-dsb-edge-grants/ dated 2026-04-23
+- Note: Listed leader confirmed still in role as of April 2026 per news reports and official website. Appointed February 2025.
+
+### R10 — Florida — FloridaCommerce
+- Current: J. Alex Kelly, Secretary of Commerce
+- Confirmed: Y — https://floridajobs.org/news-center/DEO-Press/2026/06/08/floridacommerce-announces-opening-of-application-cycle-for-defense-reinvestment-grant-and-florida-defense-support-commission-grant-programs dated 2026-06-08
+- Note: listed leader confirmed still in role as of 2026-06-08
+
+### R11 — Georgia — The Georgia Department of Economic Development
+- Current: Pat Wilson, Commissioner
+- Confirmed: Y — [Georgia Chamber of Commerce](https://www.gachamber.com/news/governor-kemp-and-commissioner-pat-wilson-featured-at-georgia-chambers-first-state-of-economic-development/) dated 2026-03-19
+- Note: Listed leader confirmed still in role as of March 2026.
+
+### R12 — Guam — The Guam Economic Development Authority
+- Current: Christina Garcia, CEO / Administrator
+- Confirmed: Y — https://www.investguam.com/administration-staff/ dated 2026-04-10
+- Note: Replaced Melanie Mendiola who resigned March 2025; Christina Garcia was nominated in June 2025 and is confirmed as the current CEO/Administrator on the official website as of 2026.
+
+### R13 — Hawaii — The Hawaii Department of Business, Economic Development & Tourism
+- Current: James Kunane Tokioka, Director
+- Confirmed: Y — https://governor.hawaii.gov/newsroom/news-release-dbedt-to-host-fourth-annual-hawai%CA%BBi-made-conference-focused-on-food-innovation/ dated 2026-06-02
+- Note: listed leader confirmed still in role as of June 2026 per June 2, 2026 news release and official site bio
+
+### R14 — Idaho — The Idaho Department of Commerce
+- Current: Tom Kealey, Director
+- Confirmed: Y — https://commerce.idaho.gov/contact-us/ dated 2026-06-09
+- Note: listed leader confirmed still in role as of June 2026. He is a member of Governor Little’s cabinet and serves as the Chief Economic Development and Marketing Officer for the State of Idaho.
+
+### R15 — Illinois — The Illinois Department of Commerce and Economic Opportunity
+- Current: Kristin Richards, Director
+- Confirmed: Y — [Illinois Press Release (2026-06-08)](https://www.illinois.gov/news/press-release.32593.html) dated 2026-06-08
+- Note: Listed leader Kristin Richards confirmed still in role as Director as of June 2026.
+
+### R16 — Indiana — The Indiana Economic Development Corporation
+- Current: David J. Adams, Secretary of Commerce
+- Confirmed: Y — https://iedc.in.gov/about/leadership dated 2026-03-18
+- Note: Replaced David Rosenberg; appointed January 2025 by Governor Mike Braun. Josh Richardson serves as IEDC President as of June 2026.
+
+### R17 — Iowa — The Iowa Economic Development Authority
+- Current: Debi Durham, Director, Iowa Economic Development Authority & Iowa Finance Authority
+- Confirmed: Y — https://opportunityiowa.gov/contacts/debi-durham-director dated 2026-06-09
+- Note: Listed leader confirmed still in role as of June 2026 per the agency's official contact page and recent activity.
+
+### R18 — Kansas — The Kansas Department of Commerce
+- Current: David Toland, Lieutenant Governor and Secretary of Commerce
+- Confirmed: Y — https://www.kansascommerce.gov/about/meet-the-team/leadership/ dated 2026-06-09
+- Note: Listed leader David Toland is confirmed still in the role of Secretary of Commerce as of June 2026, per the official leadership page and recent news activity.
+
+### R19 — Kentucky — The Kentucky Cabinet for Economic Development
+- Current: Jeff Noel, Secretary of the Cabinet for Economic Development
+- Confirmed: Y — [Our Staff](https://newkentuckyhome.ky.gov/Home/Staff) dated 2026-06-04
+- Note: Listed leader confirmed still in role as of June 2026.
+
+### R20 — Louisiana — Louisiana Economic Development
+- Current: Susan Bourgeois, Secretary
+- Confirmed: Y — https://www.opportunitylouisiana.gov/news/joint-statement-from-the-governor-and-secretary-on-liv-golf-louisiana dated 2026-04-28
+- Note: listed leader confirmed still in role as of 2026-04-28 per joint statement with Governor Jeff Landry ([Louisiana Economic Development](https://www.opportunitylouisiana.gov/news/joint-statement-from-the-governor-and-secretary-on-liv-golf-louisiana))
+
+### R21 — Maine — The Maine Department of Economic and Community Development
+- Current: Michael Duguay, Commissioner
+- Confirmed: Y — https://www.maine.gov/decd/about/commission dated 2025-03-27
+- Note: Michael Duguay replaced Heather Johnson; he was nominated on 2025-03-04 and sworn in on 2025-03-27. His role is confirmed through 2026 via [NNEPRA](https://www.nnepra.com/about-nnepra-top/board-of-directors/) and [CEDS kickoff](https://www.facebook.com/EMDCMaine/videos/today-we-kicked-off-our-2026-comprehensive-economic-development-strategy-ceds-pl/1420121232931172/).
+
+### R22 — Maryland — The Maryland Department of Commerce
+- Current: Harry Coker, Jr., Secretary of Commerce
+- Confirmed: Y — [Maryland Department of Commerce](https://commerce.maryland.gov/commerce/harry-coker-jr) dated 2026-05-01
+- Note: Replaced Kevin Anderson, appointed February 2025; listed leader confirmed still in role as of June 2026 per official state records and recent news.
+
+### R23 — Massachusetts — The Massachusetts Executive Office of Economic Development
+- Current: Eric Paley, Secretary
+- Confirmed: Y — https://www.mass.gov/news/healey-driscoll-administration-joins-with-ibm-red-hat-to-launch-ai-accelerator-during-boston-tech-week dated 2026-05-26
+- Note: Listed leader Eric Paley confirmed still in role as of May 2026. He succeeded Yvonne Hao and began his term in September 2025.
+
+### R24 — Michigan — The Michigan Economic Development Corporation
+- Current: Quentin L. Messer, Jr., Chief Executive & Economic Competitiveness Officer
+- Confirmed: Y — https://www.michiganbusiness.org/about-medc/medc-leadership/quentin-l-messer-jr/ dated 2026-06-04
+- Note: Listed leader confirmed still in role as of June 2026. Official website copyright 2026 and internal news through 2025-12 confirm tenure. External source for June 2026 summit also confirms role.
+
+### R25 — Minnesota — The Minnesota Department of Employment and Economic Development
+- Current: Matt Varilek, Commissioner
+- Confirmed: Y — https://minneapolimedia.town.news/g/coon-rapids-mn/n/377492/minneapolimedia-presents-minnesota-finest-matt-varilek-and-architecture dated 2026-05-28
+- Note: Matt Varilek, who became commissioner on June 20, 2023, is confirmed still in the role as of late May 2026 through recent media reports and agency initiatives.
+
+### R26 — Mississippi — The Mississippi Development Authority
+- Current: Bill Cork, Executive Director
+- Confirmed: Y — [Mississippi Development Authority Leadership](https://mississippi.org/about/leadership/) dated 2026-06-04
+- Note: listed leader confirmed still in role as of 2026-06-04 according to recent agency news and leadership page
+
+### R27 — Missouri — The Missouri Department of Economic Development
+- Current: Michelle Hataway, Director
+- Confirmed: Y — https://ded.mo.gov/about dated 2026-06-09
+- Note: Listed leader confirmed still in role as of 2026-06-09. She was first appointed in May 2024 and reaffirmed by Governor Mike Kehoe in November 2024.
+
+### R28 — Montana — The Montana Department of Commerce
+- Current: Marta Bertoglio, Director
+- Confirmed: Y — https://montanafreepress.org/2026/04/22/judge-orders-state-to-halt-paychecks-for-commerce-department-director/ dated 2026-04-22
+- Note: Marta Bertoglio remains in the role of Director as of April 2026, despite a court ruling on her appointment, as confirmed by the Governor's office. She replaced Paul Green in June 2025. Listed leader confirmed.
+
+### R29 — Nebraska — The Nebraska Department of Economic Development
+- Current: Maureen Larsen, Director
+- Confirmed: Y — https://opportunity.nebraska.gov/contact/ dated 2026-06-08
+- Note: Listed leader Maureen Larsen confirmed still in role as of June 2026; she was appointed in November 2025 after serving as interim.
+
+### R30 — Nevada — The Nevada Governor's Office of Economic Development
+- Current: Tom Burns, Executive Director
+- Confirmed: Y — [GOED Team](https://goed.nv.gov/goed-team/) dated 2026-06-04
+- Note: Listed leader confirmed still in role as of June 2026. Appointed Jan. 30, 2023.
+
+### R31 — New Hampshire — The New Hampshire Department of Business and Economic Affairs
+- Current: Lucy Lange, Commissioner
+- Confirmed: Y — https://www.nheconomy.com/about-us/meet-the-staff dated 2026-02-11
+- Note: Replaced Taylor Caswell who resigned in late 2025; Lucy Lange was confirmed in February 2026 and is listed on the official staff page as Commissioner as of June 2026.
+
+### R32 — New Jersey — The New Jersey Economic Development Authority
+- Current: Evan Weiss, Chief Executive Officer
+- Confirmed: Y — https://www.njeda.gov/evan-weiss-named-new-njeda-ceo/ dated 2026-01-28
+- Note: Replaced Tim Sullivan (who stepped down Dec 2025), appointed by Governor Mikie Sherrill and approved by the NJEDA Board on January 28, 2026.
+
+### R33 — New Mexico — The New Mexico Economic Development Department
+- Current: Rob Black, Cabinet Secretary
+- Confirmed: Y — https://www.edd.newmexico.gov/press-releases/state-launches-advisory-board-to-guide-200m-investment/ dated 2026-06-02
+- Note: Listed leader Rob Black confirmed still in role as of June 2026. He was appointed in September 2024 and unanimously confirmed by the New Mexico Senate on March 19, 2025.
+
+### R34 — New York — Empire State Development
+- Current: Hope Knight, President, CEO, and Commissioner
+- Confirmed: Y — https://esd.ny.gov/esd-media-center/press-releases/empire-state-development-announces-successful-trade-mission dated 2026-06-05
+- Note: Listed leader confirmed still in role as of 2026-06-05.
+
+### R35 — North Carolina — The Economic Development Partnership of North Carolina
+- Current: Christopher Chung, Chief Executive Officer
+- Confirmed: Y — https://edpnc.com/who-we-are/ dated 2026-06-09
+- Note: Listed leader confirmed still in role as of June 2026. Official website and recent 2026 press mentions verify his continued leadership.
+
+### R36 — North Dakota — The North Dakota Department of Commerce
+- Current: Chris Schilken, Commissioner
+- Confirmed: Y — https://www.commerce.nd.gov/contact-us/commerce-team-members dated 2024-12-19
+- Note: Replaced Josh Teigen; Chris Schilken was introduced as Commissioner in December 2024 according to official department news. He is listed on the live site as of June 2026.
+
+### R37 — Northern Mariana Islands — The Department of Commerce for the Commonwealth of the Northern Mariana Islands
+- Current: Remedio C. Mafnas, Secretary of Commerce
+- Confirmed: Y — https://www.commerce.gov.mp/about-us/secretary-commerce dated 2024-08-08
+- Note: Replaced Edward M. Deleon Guerrero (who is now referred to as "then-official capacity" in 2024 court documents); Remedio C. Mafnas was appointed as Acting Secretary in November 2023 and confirmed by the Senate on 2024-08-08. Official website confirmed her in the role as of June 2026.
+
+### R38 — Ohio — The Ohio Department of Development
+- Current: Lydia Mihalik, Director
+- Confirmed: Y — https://sanduskyregister.com/news/1032718/almost-1m-in-housing-grants-secured/ dated 2026-06-08
+- Note: Listed leader Lydia Mihalik confirmed still in role as of June 2026.
+
+### R39 — Oklahoma — The Oklahoma Department of Commerce
+- Current: Deborah Moorad, Secretary of Commerce
+- Confirmed: Y — https://www.okcommerce.gov/about-us/ dated 2026-06-03
+- Note: Listed leader confirmed still in role; she was appointed by Governor Kevin Stitt in February 2025 and confirmed by the State Senate in April 2025. John Budd also serves as CEO of the Department of Commerce.
+
+### R40 — Oregon — Business Oregon
+- Current: Sophorn Cheang, Director
+- Confirmed: Y — https://sos.oregon.gov/audits/Documents/2026-12.pdf dated 2026-03-18
+- Note: Sophorn Cheang is confirmed as the Director of Business Oregon, having served in the role since March 2021. Recent evidence including a state audit report dated March 2026 and the agency's official website confirms she remains in the position.
+
+### R41 — Pennsylvania — The Pennsylvania Department of Community & Economic Development
+- Current: Rick Siger, Secretary
+- Confirmed: Y — https://dced.pa.gov/about-us/executive-staff/ dated 2026-06-04
+- Note: Listed leader confirmed still in role as of June 2026 per the [official DCED executive staff page](https://dced.pa.gov/about-us/executive-staff/) and [Governor's press release](https://www.pa.gov/governor/newsroom/2026-press-releases/gov-shapiro-announces-round-3-of-pa-sites-awards).
+
+### R42 — Puerto Rico — The Puerto Rico Department of Economic Development and Commerce
+- Current: Roberto Lefranc Fortuño, Acting Secretary (Deputy Secretary)
+- Confirmed: Y — [El Nuevo Día](https://www.elnuevodia.com/negocios/economia/notas/quien-es-roberto-lefranc-fortuno/) dated 2026-05-27
+- Note: Replaced Sebastián Negrón Reichard, who resigned on May 26, 2026. Roberto Lefranc Fortuño, the Deputy Secretary and Executive Director of PRIDCO, currently leads the agency as interim head while the Governor evaluates candidates for a permanent replacement.
+
+### R43 — Rhode Island — Rhode Island Commerce
+- Current: Stefan Pryor, Secretary of Commerce
+- Confirmed: Y — https://eoc.ri.gov/about/about-sec-tanner dated 2025-11-12
+- Note: Replaced Elizabeth Tanner (resigned July 2025); Stefan Pryor was nominated in August 2025 and currently serves as Secretary of Commerce ([Executive Office of Commerce](https://eoc.ri.gov/about/about-sec-tanner)). James S. Bennett serves as President & CEO of the Rhode Island Commerce Corporation as of June 2026 ([RI Commerce](https://commerceri.com/about-us/commerce-staff/)).
+
+### R44 — South Carolina — The South Carolina Department of Commerce
+- Current: Harry M. Lightsey III, Secretary of Commerce
+- Confirmed: Y — https://www.sccommerce.com/news/usa-rare-earth-inc-selects-cherokee-county-first-south-carolina-operation dated 2026-06-02
+- Note: listed leader confirmed still in role as of 2026-06-02; according to [SC Commerce press release](https://www.sccommerce.com/news/usa-rare-earth-inc-selects-cherokee-county-first-south-carolina-operation) and [official leadership page](https://www.sccommerce.com/about/leadership-directors/harry-m-lightsey-iii).
+
+### R45 — South Dakota — The South Dakota Governor's Office of Economic Development
+- Current: Bill Even, Commissioner
+- Confirmed: Y — https://sdgoed.com/about-sdgoed/ dated 2025-04-23
+- Note: Replaced Chris Schilken (who stepped down Feb 2024) and Joe Fiala (who served as Commissioner 2024-08 to 2025-05). Bill Even was appointed April 2025 and assumed the role May 2, 2025. confirmed still in role as of June 2026.
+
+### R46 — Tennessee — The Tennessee Department of Economic and Community Development
+- Current: Stuart C. McWhorter, Deputy Governor and Commissioner
+- Confirmed: Y — https://tnecd.com/staff/stuart-mcwhorter/ dated 2026-06-05
+- Note: Listed leader confirmed still in role as of June 2026. He has served as TNECD Commissioner since July 2022 and was additionally appointed Deputy Governor on October 15, 2025.
+
+### R47 — Texas — The Texas Office of the Governor, Economic Development & Tourism division
+- Current: Adriana Cruz, Executive Director, Texas Economic Development & Tourism Office
+- Confirmed: Y — https://gov.texas.gov/business/page/staff-directory dated 2026-06-09
+- Note: Listed leader confirmed still in role as of June 2026 per the official staff directory and recent activity.
+
+### R48 — U.S. Virgin Islands — The U.S. Virgin Islands Economic Development Authority
+- Current: Wayne L. Biggs, Jr., Chief Executive Officer
+- Confirmed: Y — https://usvieda.org/press_release/vieda-and-uvi-rt-park-showcase-u-s-virgin-islands-as-investment-destination-at-selectusa-2026/ dated 2026-05-14
+- Note: Listed leader confirmed still in role as of May 2026.
+
+### R49 — Utah — The Utah Governor's Office of Economic Opportunity
+- Current: Jefferson Moss, Commissioner / Executive Director
+- Confirmed: Y — https://business.utah.gov/team/ dated 2026-06-01
+- Note: Jefferson Moss replaced Ryan Starks, who departed in May 2025. Moss was appointed by Governor Cox in May 2025 and began as interim Executive Director on June 2, 2025. On the agency's official team page, he is listed as "Commissioner".
+
+### R50 — Vermont — The Vermont Agency of Commerce and Community Development
+- Current: Lindsay Kurrle, Secretary
+- Confirmed: Y — https://accd.vermont.gov/about-us dated 2026-06-09
+- Note: Listed leader confirmed still in role as of June 2026 per [Agency About page](https://accd.vermont.gov/about-us).
+
+### R51 — Virginia — The Virginia Economic Development Partnership
+- Current: Jason El Koubi, President and CEO
+- Confirmed: Y — https://www.vedp.org/profile/jason-el-koubi dated 2026-03-01
+- Note: Listed leader confirmed still in role; verified by official website profile and March 2026 news report.
+
+### R52 — Washington — The Washington State Department of Commerce
+- Current: Sarah Clifthorne, Interim Director
+- Confirmed: Y — [Washington Department of Commerce Leadership Page](https://www.commerce.wa.gov/about/leadership/) dated 2026-06-05
+- Note: Replaced Joe Nguyen (resigned Dec 2025), who had replaced Mike Fong in Jan 2025. Sarah Clifthorne was appointed interim director by Governor Ferguson effective Jan 20, 2026, and remains in the role as of June 2026.
+
+### R53 — West Virginia — The West Virginia Department of Economic Development
+- Current: Todd Hooker, Acting Executive Director
+- Confirmed: Y — https://westvirginia.gov/connect-with-us/meet-the-team/ dated 2026-06-09
+- Note: Mitch Carmichael stepped down in October 2024; Mike Graney served as Acting Secretary until late 2025. Todd Hooker was appointed Acting Director by Governor Morrisey in August 2025 and is confirmed in the role on the official site as of June 2026.
+
+### R54 — Wisconsin — The Wisconsin Economic Development Corporation
+- Current: John W. Miller, Secretary and CEO
+- Confirmed: Y — [WEDC Executive Profiles](https://wedc.org/newsroom/executive-profiles/) dated 2026-02-27
+- Note: Listed leader confirmed still in role; appointed effective 2025-12-15, replacing Missy Hughes who resigned in September 2025.
+
+### R55 — Wyoming — The Wyoming Business Council
+- Current: Josh Dorrell, Chief Executive Officer
+- Confirmed: Y — https://wyomingbusiness.org/about/team/ dated 2026-06-09
+- Note: Listed leader confirmed still in role as of June 2026, supported by the organization's team page and recent press releases dated through June 2026.
+
+---
+
+## PHASE 2 — Default Org Email
+
+### R01 — Alabama — The Alabama Development Fund
+- Final: `contact@madeinalabama.com` | Status: VALIDATED | Tier 1
+- Evidence: https://www.madeinalabama.com/contact/
+- Quote: "EMAIL contact@madeinalabama.com"
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R02 — Alaska — The Alaska Department of Commerce, Community, and Economic Development
+- Final: `dcced.commissioner@alaska.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.commerce.alaska.gov/web/ContactUs
+- Quote: "Commissioner's Office Phone: (907) 465-2500 Email: dcced.commissioner@alaska.gov"
+- Conflicts: ALT: businesslicense@alaska.gov, corporations@alaska.gov, insurance@alaska.gov, dcra.admin@alaska.gov, investments@alaska.gov, ced.abo.general@alaska.gov, dbsc@alaska.gov. The most direct general line is the Commissioner's Office email.
+- Confidence: 95 (base T1, recency +5)
+
+### R03 — American Samoa — The American Samoa Department of Commerce
+- Final: `info@doc.as` | Status: VALIDATED | Tier 1
+- Evidence: https://www.doc.as.gov/
+- Quote: "Email: info@doc.as"
+- Conflicts: ALT: americansamoastatistics@doc.as.gov (statistics-specific), ALT: info@as-sbdc.net (SSBCI program)
+- Confidence: 95 (base T1, recency +5)
+
+### R04 — Arizona — The Arizona Commerce Authority
+- Final: `info@azcommerce.com` | Status: VALIDATED | Tier 2
+- Evidence: https://www.azcommerce.com/media/1542180/phoenix.pdf
+- Quote: "118 N. 7th Ave., Suite 400 | Phoenix, AZ 85007 | 602-845-1200 | info@azcommerce.com | www.azcommerce.com"
+- Conflicts: ALT: events@azcommerce.com (found in 2025 event agenda), SmallBiz@azcommerce.com (Small Business Services)
+- Confidence: 62 (base T2, recency -20)
+
+### R05 — Arkansas — The Arkansas Economic Development Commission
+- Final: `info@arkansasedc.com` | Status: VALIDATED | Tier 1
+- Evidence: https://www.arkansasedc.com/contact-us
+- Quote: "MEDIA INQUIRES 501-682-5996 info@arkansasedc.com"
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R06 — California — The California Governor's Office of Business and Economic Development
+- Final: `` | Status: UNVERIFIED | Tier 0
+- Evidence: https://business.ca.gov/terms-of-use/
+- Quote: "SERVICE CONTACT: Email (link to https://gobiz.zendesk.com/hc/en-us/requests/new)"
+- Conflicts: contact form only; ALT: CalCRG@gobiz.ca.gov (program specific), CEG@gobiz.ca.gov (program specific), CalCompetes@gobiz.ca.gov (program specific)
+- Confidence: 5 (base T-, recency -20)
+
+### R07 — Colorado — The Colorado Office of Economic Development and International Trade
+- Final: `oedit.info@state.co.us` | Status: VALIDATED | Tier 1
+- Evidence: https://oedit.colorado.gov/about/contact
+- Quote: "oedit.info@state.co.us"
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R08 — Connecticut — The Connecticut Department of Economic and Community Development
+- Final: `decd@ct.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://portal.ct.gov/DECD/Content/About_DECD/Research-and-Publications/01_Access-Research/Population-Data
+- Quote: "For additional information or questions, contact decd@ct.gov."
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R09 — Delaware — The Delaware Division of Small Business
+- Final: `business@delaware.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://business.delaware.gov/contact/
+- Quote: " business@delaware.gov"
+- Conflicts: ALT: [Jaimie.Watts@delaware.gov](mailto:Jaimie.Watts@delaware.gov), [visit.delaware@delaware.gov](mailto:visit.delaware@delaware.gov)
+- Confidence: 95 (base T1, recency +5)
+
+### R10 — Florida — FloridaCommerce
+- Final: `MediaInquiries@Commerce.fl.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.floridajobs.org/help-center---contact-us
+- Quote: "The Office of Public Affairs is the primary source of public information about Florida’s FloridaCommerce... [Media Inquiries Link]"
+- Conflicts: ALT: MediaInquiries@Commerce.fl.gov (Inferred from Media link on Contact page), ALT: MSFW@commerce.fl.gov, ALT: Apprenticeship@commerce.fl.gov, ALT: Civil.Rights@commerce.fl.gov, ALT: DWG@commerce.fl.gov, ALT: FederalBonding@commerce.fl.gov, ALT: SNAPETProgram@commerce.fl.gov, ALT: RESEA@commerce.fl.gov, ALT: RapidResponse@commerce.fl.gov, ALT: TAA@commerce.fl.gov, ALT: VETS@commerce.fl.gov, ALT: WagnerPeyser@commerce.fl.gov, ALT: WTProgram@commerce.fl.gov, ALT: WOTC@commerce.fl.gov, ALT: WARNnotices@commerce.fl.gov, ALT: WIOA@commerce.fl.gov, ALT: Yazmin.Valdez@Commerce.fl.gov, ALT: CDBG-DR@Commerce.fl.gov, ALT: Donna.Harris@Commerce.fl.gov, ALT: FLExpiredHOAs@Commerce.fl.gov, ALT: CDBG@Commerce.fl.gov, ALT: SpecialDistricts@Commerce.fl.gov. The guessed email CustomerInfoCenter@commerce.fl.gov was not found on the live site, but a similar address CustomerInfoCenter@deo.myflorida.com was found in third-party documents as a secondary contact. contact form only for general reemployment assistance.
+- Confidence: 95 (base T1, recency +5)
+
+### R11 — Georgia — The Georgia Department of Economic Development
+- Final: `contact@georgia.org` | Status: VALIDATED | Tier 1
+- Evidence: https://georgia.org/contact-us
+- Quote: "contact@georgia.org"
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R12 — Guam — The Guam Economic Development Authority
+- Final: `info@investguam.com` | Status: VALIDATED | Tier 2
+- Evidence: https://www.investguam.com/wp-content/uploads/2025/Financial%20Reports/CCR%202024_revised%208.22.25.pdf
+- Quote: "CONNECT WITH US ... EMAIL: info@investguam.com"
+- Conflicts: ALT: cgarcia@investguam.com
+- Confidence: 87 (base T2, recency +5)
+
+### R13 — Hawaii — The Hawaii Department of Business, Economic Development & Tourism
+- Final: `dbedt.director@hawaii.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://dbedt.hawaii.gov/contact/
+- Quote: "Please submit all UIPA requests for government records pertaining to the Dept. of Business, Economic Development & Tourism, Office of the Director to: ... or to dbedt.director@hawaii.gov"
+- Conflicts: ALT: dbedt.webmaster@hawaii.gov; ALT: director@dbedt.hawaii.gov (listed on [Hawaii.gov portal](https://portal.ehawaii.gov/government/departments-and-agencies/))
+- Confidence: 95 (base T1, recency +5)
+
+### R14 — Idaho — The Idaho Department of Commerce
+- Final: `info@commerce.idaho.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://commerce.idaho.gov/faqs/
+- Quote: "Don’t see any answer to your question below? Contact us at info@commerce.idaho.gov, or fill out the form at the bottom of this page."
+- Conflicts: ALT: [email protected] (Public Records Request) [Source](https://commerce.idaho.gov/contact-us/)
+- Confidence: 95 (base T1, recency +5)
+
+### R15 — Illinois — The Illinois Department of Commerce and Economic Opportunity
+- Final: `BIC@Illinois.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://dceo.illinois.gov/smallbizassistance/beginhere/businessinformationcenter.html
+- Quote: "Toll free helpline 800.252.2923 or email us at BIC@Illinois.gov"
+- Conflicts: ALT: ceo.firststop@illinois.gov (found in 2023 Annual Report and on-page mailto link), DCEO.Media@illinois.gov (media inquiries), ceo.GrantHelp@illinois.gov (grant questions)
+- Confidence: 95 (base T1, recency +5)
+
+### R16 — Indiana — The Indiana Economic Development Corporation
+- Final: `` | Status: UNVERIFIED | Tier 0
+- Evidence: https://iedc.in.gov/contact
+- Quote: ""
+- Conflicts: contact form only; ALT: iedc@iedc.in.gov (third-party/inferred)
+- Confidence: 5 (base T-, recency -20)
+
+### R17 — Iowa — The Iowa Economic Development Authority
+- Final: `info@iowaeda.com` | Status: VALIDATED | Tier 1
+- Evidence: https://opportunityiowa.gov/contact
+- Quote: "For General Inquiries Email IEDA: info@iowaeda.com"
+- Conflicts: ALT: communications@iowafinance.com (IFA General Inquiries); ALT: communications@iowaeda.com (Media); ALT: traveliowa@iowaeda.com (Tourism)
+- Confidence: 95 (base T1, recency +5)
+
+### R18 — Kansas — The Kansas Department of Commerce
+- Final: `kdc_marketing@ks.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.kansascommerce.gov/cookie-policy/
+- Quote: "If you have any other questions about our Cookie Policy, please contact us at: The Kansas Department of Commerce Marketing Department ... kdc_marketing@ks.gov"
+- Conflicts: ALT: admin@kansascommerce.com (found in older PDF), kdc_salesforce.admin@ks.gov (technical support)
+- Confidence: 95 (base T1, recency +5)
+
+### R19 — Kentucky — The Kentucky Cabinet for Economic Development
+- Final: `econdev@ky.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://newkentuckyhome.ky.gov/Home/ContactUs
+- Quote: "To contact the Cabinet by email, send inquiries to Or econdev@ky.gov."
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R20 — Louisiana — Louisiana Economic Development
+- Final: `LED@la.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.opportunitylouisiana.gov/contact-us
+- Quote: "LED@la.gov"
+- Conflicts: ALT: LEDPublicRecords@la.gov (Public Records Requests)
+- Confidence: 95 (base T1, recency +5)
+
+### R21 — Maine — The Maine Department of Economic and Community Development
+- Final: `business.answers@maine.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.maine.gov/decd/business-development/start-grow/contact-us
+- Quote: "Email: business.answers@maine.gov"
+- Conflicts: ALT: maureen.terry@maine.gov (Communications Director seen on news release), ALT: BizAwards.DECD@maine.gov (Specific to Domestic Trade grants)
+- Confidence: 70 (base T1, recency -20)
+
+### R22 — Maryland — The Maryland Department of Commerce
+- Final: `communications.commerce@maryland.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://commerce.maryland.gov/commerce/contact-us
+- Quote: "For general inquiries, please contact communications.commerce@maryland.gov"
+- Conflicts: ALT: Secretary.Commerce@maryland.gov (found on third-party source [City of Laurel](https://www.cityoflaurel.org/DocumentCenter/View/434))
+- Confidence: 95 (base T1, recency +5)
+
+### R23 — Massachusetts — The Massachusetts Executive Office of Economic Development
+- Final: `` | Status: UNVERIFIED | Tier 0
+- Evidence: https://www.mass.gov/orgs/executive-office-of-economic-development
+- Quote: "Press Contact: Meggie Quackenbush, Director of Communications margaret.m.quackenbush@mass.gov"
+- Conflicts: contact form only; Press Contact: margaret.m.quackenbush@mass.gov; PRR: HED.RAO@massmail.state.ma.us; Accounts Payable: eoedap@mass.gov; Grants: eohedgrants@mass.gov; One Stop Grant: onestop@mass.gov
+- Confidence: 5 (base T-, recency +5)
+
+### R24 — Michigan — The Michigan Economic Development Corporation
+- Final: `` | Status: UNVERIFIED | Tier 0
+- Evidence: 
+- Quote: ""
+- Conflicts: contact form only; ALT: medcfoia@michigan.org (FOIA), medcgovrelations@michigan.org (Gov Relations)
+- Confidence: 5 (base T-, recency -20)
+
+### R25 — Minnesota — The Minnesota Department of Employment and Economic Development
+- Final: `DEED.CustomerService@state.mn.us` | Status: VALIDATED | Tier 2
+- Evidence: https://www.lrl.mn.gov/docs/2026/mandated/260334.pdf
+- Quote: "MN Department of Employment and Economic Development ... [DEED.CustomerService@state.mn.us] [651-259-7114]"
+- Conflicts: ALT: DEED.Legal@state.mn.us (for subpoenas); ALT: smallbusiness@state.mn.us (Small Business Assistance Office); ALT: Warn.Deed@state.mn.us (Rapid Response Team)
+- Confidence: 87 (base T2, recency +5)
+
+### R26 — Mississippi — The Mississippi Development Authority
+- Final: `marketing&comm@mississippi.org` | Status: VALIDATED | Tier 1
+- Evidence: https://mississippi.org/privacy/
+- Quote: "We can be reached via email at marketing&comm@mississippi.org, or you can reach us by telephone at (601) 359-3449."
+- Conflicts: ALT:marketing&comm@mississippi.org; ALT:pbesselievre@mississippi.org; ALT:tinquiry@mississippi.org
+- Confidence: 95 (base T1, recency +5)
+
+### R27 — Missouri — The Missouri Department of Economic Development
+- Final: `ecodev@ded.mo.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://ded.mo.gov/about
+- Quote: "[EMAIL: ECODEV@DED.MO.GOV](mailto:ecodev@ded.mo.gov)"
+- Conflicts: none
+- Confidence: 70 (base T1, recency -20)
+
+### R28 — Montana — The Montana Department of Commerce
+- Final: `` | Status: UNVERIFIED | Tier 0
+- Evidence: https://commerce.mt.gov/Contact/
+- Quote: "If you experience difficulty accessing resources or content on this site, please contact us using the phone number or address above."
+- Conflicts: ALT: docadministrativerules@mt.gov (specifically for administrative rules/public comments); MTPR@mt.gov (tourism PR). The department primarily uses a contact form for general inquiries.
+- Confidence: 5 (base T-, recency -10)
+
+### R29 — Nebraska — The Nebraska Department of Economic Development
+- Final: `` | Status: UNVERIFIED | Tier 0
+- Evidence: https://opportunity.nebraska.gov/contact/
+- Quote: "Not sure who to contact? Use the DED general contact form."
+- Conflicts: contact form only; ALT: ded.info@nebraska.gov (seen in 2020 news release), ded.publiccomment@nebraska.gov (specific to public comments)
+- Confidence: 5 (base T-, recency -20)
+
+### R30 — Nevada — The Nevada Governor's Office of Economic Development
+- Final: `goed@goed.nv.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://goed.nv.gov/contact/
+- Quote: "goed@goed.nv.gov"
+- Conflicts: ALT: c.smith@goed.nv.gov (Media); ehaddad@goed.nv.gov (Media)
+- Confidence: 95 (base T1, recency +5)
+
+### R31 — New Hampshire — The New Hampshire Department of Business and Economic Affairs
+- Final: `planning@livefree.nh.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.nheconomy.com/office-of-planning-and-development/who-we-are
+- Quote: "Contact Us The Office of Planning and Development (OPD) can be contacted at: ... planning@livefree.nh.gov"
+- Conflicts: ALT: planning@livefree.nh.gov (found on official Office of Planning and Development page), govcontracting@livefree.nh.gov (found on APEX Accelerator page); the site primarily uses a contact form and individual staff emails for general inquiries. info@nheconomy.com was a guess and not found on the site.
+- Confidence: 95 (base T1, recency +5)
+
+### R32 — New Jersey — The New Jersey Economic Development Authority
+- Final: `CustomerCare@njeda.com` | Status: VALIDATED | Tier 1
+- Evidence: https://www.njeda.gov/about/
+- Quote: "E-mail: CustomerCare@njeda.com"
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R33 — New Mexico — The New Mexico Economic Development Department
+- Final: `info@edd.nm.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.edd.newmexico.gov/contact-us/
+- Quote: "Email: info@edd.nm.gov"
+- Conflicts: ALT: Chris.Chaffin@edd.nm.gov (media); EDD.hripra@edd.nm.gov (public records)
+- Confidence: 95 (base T1, recency +5)
+
+### R34 — New York — Empire State Development
+- Final: `PrivacyPolicy@esd.ny.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://esd.ny.gov/privacy-policy
+- Quote: "If you have any questions or concerns about this privacy policy, please contact us via email at PrivacyPolicy@esd.ny.gov."
+- Conflicts: ALT: pressoffice@esd.ny.gov (Press/Media), globalny@esd.ny.gov (Global NY), webmaster@esd.ny.gov (Website inquiry), accessibility@esd.ny.gov (Accessibility)
+- Confidence: 80 (base T1, recency -10)
+
+### R35 — North Carolina — The Economic Development Partnership of North Carolina
+- Final: `privacy@edpnc.com` | Status: VALIDATED | Tier 1
+- Evidence: https://edpnc.com/privacy-policy/
+- Quote: "Upon our receipt of your request by e-mail at privacy@edpnc.com and our verification of your identity, we will provide you with a copy of your E.U. Personal Information."
+- Conflicts: ALT: privacy@edpnc.com, sbadvisors@edpnc.com. The listed_guess client.services@edpnc.com was not found; sbadvisors@edpnc.com is used for the Small Business Advisors team. evan.hoopfer@edpnc.com is the media contact.
+- Confidence: 70 (base T1, recency -20)
+
+### R36 — North Dakota — The North Dakota Department of Commerce
+- Final: `commerce@nd.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.commerce.nd.gov/contact-us/commerce-team-members
+- Quote: "[Department of Commerce](mailto:commerce@nd.gov) - 701-328-5300"
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R37 — Northern Mariana Islands — The Department of Commerce for the Commonwealth of the Northern Mariana Islands
+- Final: `info@commerce.gov.mp` | Status: VALIDATED | Tier 1
+- Evidence: https://commerce.gov.mp/
+- Quote: "For questions or comments you may email us at info@commerce.gov.mp, or any of the phone numbers listed on the contact us page."
+- Conflicts: ALT: support@commerce.gov.mp (found on contact page)
+- Confidence: 95 (base T1, recency +5)
+
+### R38 — Ohio — The Ohio Department of Development
+- Final: `` | Status: UNVERIFIED | Tier 0
+- Evidence: https://development.ohio.gov/help-center
+- Quote: "Email to and from the Ohio Department of Development is open to public inspection under Ohio's public records law."
+- Conflicts: contact form only; ALT: communication@development.ohio.gov (Communications/Logo requests), Procurement@development.ohio.gov (Procurement), askohiotourism@development.ohio.gov (Tourism), financialincentives@development.ohio.gov (Financial Incentives)
+- Confidence: 5 (base T-, recency -20)
+
+### R39 — Oklahoma — The Oklahoma Department of Commerce
+- Final: `info@okcommerce.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.okcommerce.gov/privacy-policy-legal-notice/
+- Quote: "Should you have questions at any time, please contact us at info@okcommerce.gov or (800) 879-6552."
+- Conflicts: none
+- Confidence: 70 (base T1, recency -20)
+
+### R40 — Oregon — Business Oregon
+- Final: `business.oregon@oregon.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.oregon.gov/biz/aboutus/contactus/Pages/default.aspx
+- Quote: "Contact Our Director business.oregon@oregon.gov"
+- Conflicts: ALT: biz.info@state.or.us (found on official Facebook page) ; ALT: help.help@oregon.gov (tech support)
+- Confidence: 70 (base T1, recency -20)
+
+### R41 — Pennsylvania — The Pennsylvania Department of Community & Economic Development
+- Final: `ra-dcedcs@pa.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://dced.pa.gov/privacy-policy/
+- Quote: "To review, update or delete your collected data or to withdraw consent for use, contact DCED at ra-dcedcs@pa.gov."
+- Conflicts: ALT: dcedpress@pa.gov (Media); ra-dcedcs@pa.gov is the email for the DCED Customer Service Center as seen on multiple official pages and documents.
+- Confidence: 95 (base T1, recency +5)
+
+### R42 — Puerto Rico — The Puerto Rico Department of Economic Development and Commerce
+- Final: `oficialesdeinformacion@ddec.pr.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.desarrollo.pr.gov/en/acceso-informacion
+- Quote: "Sra. Mariluz López Acevedo\nOficial Gerencial\nOficina de Mercadeo y Comunicaciones\noficialesdeinformacion@ddec.pr.gov"
+- Conflicts: ALT: applications@ddec.pr.gov; ALT: oficialesdeinformacion@ddec.pr.gov; ALT: Querellasdiscrimen@ddec.pr.gov; ALT: transferencia.electronicas@ddec.pr.gov; ALT: premprende@ddec.pr.gov; ALT: juventud@ddec.pr.gov
+- Confidence: 90 (base T1, recency +0)
+
+### R43 — Rhode Island — Rhode Island Commerce
+- Final: `info@commerceri.com` | Status: VALIDATED | Tier 1
+- Evidence: https://commerceri.com/contact-us/
+- Quote: "Email: info@commerceri.com"
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R44 — South Carolina — The South Carolina Department of Commerce
+- Final: `info@sccommerce.com` | Status: VALIDATED | Tier 1
+- Evidence: https://www.sccommerce.com/contact
+- Quote: "link \"EMAIL SC COMMERCE\" [ref=ref_143] (x=716,y=867) url=\"mailto:info@sccommerce.com\""
+- Conflicts: ALT: foia@sccommerce.com (FOIA requests), aclark@sccommerce.com (Media contact)
+- Confidence: 95 (base T1, recency +5)
+
+### R45 — South Dakota — The South Dakota Governor's Office of Economic Development
+- Final: `goedinfo@state.sd.us` | Status: VALIDATED | Tier 2
+- Evidence: https://puc.sd.gov/commission/commissionaction/10yearplan/NWE2022.pdf
+- Quote: "(4) \nGovernor's Office of Economic Development \ngoedinfo@state.sd.us"
+- Conflicts: ALT: GOED.CBDGDRInfo@state.sd.us (specifically for CDBG-Disaster Relief inquiries)
+- Confidence: 72 (base T2, recency -10)
+
+### R46 — Tennessee — The Tennessee Department of Economic and Community Development
+- Final: `ECD.Communications.Office@tn.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://www.tn.gov/ecd
+- Quote: "ECD.Communications.Office@tn.gov"
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R47 — Texas — The Texas Office of the Governor, Economic Development & Tourism division
+- Final: `business@gov.texas.gov` | Status: INFERRED | Tier 3
+- Evidence: https://www.youtube.com/watch?v=PIKf7nVi_8o
+- Quote: "For more information, visit gov.texas.gov/business, or contact us at business@gov.texas.gov."
+- Conflicts: ALT: abbottpressoffice@gov.texas.gov (Press Office) found on official staff directory. business@gov.texas.gov found on third-party referral document and YouTube video descriptions from the office.
+- Confidence: 40 (base T3, recency -20)
+
+### R48 — U.S. Virgin Islands — The U.S. Virgin Islands Economic Development Authority
+- Final: `info@usvieda.org` | Status: VALIDATED | Tier 1
+- Evidence: https://usvieda.org/2025/12/15/virgin-islands-economic-development-authority-office-on-st-croix-closes-early-this-afternoon/
+- Quote: "For more information, send an email to info@usvieda.org ."
+- Conflicts: none
+- Confidence: 95 (base T1, recency +5)
+
+### R49 — Utah — The Utah Governor's Office of Economic Opportunity
+- Final: `business@utah.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://business.utah.gov/contact/
+- Quote: "EMAIL\nbusiness@utah.gov"
+- Conflicts: ALT: pafitzgibbon@utah.gov (Media)
+- Confidence: 95 (base T1, recency +5)
+
+### R50 — Vermont — The Vermont Agency of Commerce and Community Development
+- Final: `` | Status: UNVERIFIED | Tier 0
+- Evidence: https://accd.vermont.gov/about-us/contact-us
+- Quote: "To request website content in an alternative format or to provide accessibility feedback, please: Email: Submit an accessibility request [shelley.pembroke@vermont.gov]"
+- Conflicts: contact form only; ALT: shelley.pembroke@vermont.gov (accessibility inquiries), john.kessler@vermont.gov (public records requests). The listed_guess accd.vermont@vermont.gov was not found on the website.
+- Confidence: 5 (base T-, recency +5)
+
+### R51 — Virginia — The Virginia Economic Development Partnership
+- Final: `info@vedp.org` | Status: VALIDATED | Tier 1
+- Evidence: https://www.vedp.org/contact-us
+- Quote: "804.545.5600 (General) 804.545.5806 (Media) info@vedp.org"
+- Conflicts: none
+- Confidence: 90 (base T1, recency +0)
+
+### R52 — Washington — The Washington State Department of Commerce
+- Final: `ChooseWashington@commerce.wa.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://choosewashingtonstate.com/contact-us/
+- Quote: "eMail: ChooseWashington@commerce.wa.gov"
+- Conflicts: ALT: [Amelia.Lamb@commerce.wa.gov](https://www.commerce.wa.gov/news/), [Communications@commerce.wa.gov](https://www.commerce.wa.gov/news/), [PublicDisclosure@Commerce.wa.gov](https://www.commerce.wa.gov/contact/public-records-request/)
+- Confidence: 95 (base T1, recency +5)
+
+### R53 — West Virginia — The West Virginia Department of Economic Development
+- Final: `commercewebmaster@wv.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://westvirginia.gov/privacy-policy/
+- Quote: "For more information on our privacy requirements and practices, please contact us at commercewebmaster@wv.gov ."
+- Conflicts: contact form only; ALT: commercewebmaster@wv.gov (Privacy Policy contact), Todd.E.Hooker@wv.gov (Acting Executive Director)
+- Confidence: 80 (base T1, recency -10)
+
+### R54 — Wisconsin — The Wisconsin Economic Development Corporation
+- Final: `events@wedc.org` | Status: VALIDATED | Tier 1
+- Evidence: https://wedc.org/contact-us/staff-directory/
+- Quote: "Events Director events@wedc.org Reach out for: All events inquiries"
+- Conflicts: ALT: events@wedc.org, legal@wedc.org, david.callender@wedc.org. The site primarily uses a dynamic contact form to route inquiries.
+- Confidence: 95 (base T1, recency +5)
+
+### R55 — Wyoming — The Wyoming Business Council
+- Final: `info.wbc@wyo.gov` | Status: VALIDATED | Tier 1
+- Evidence: https://wyomingbusiness.org/contact/
+- Quote: "Email: info.wbc@wyo.gov"
+- Conflicts: ALT: info.wbc@wyo.gov; Note: The listed guess wbc.info@wyo.gov was not found on the official site; the correct general email is info.wbc@wyo.gov.
+- Confidence: 90 (base T1, recency +0)
