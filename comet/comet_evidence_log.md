@@ -1556,3 +1556,86 @@ Show-your-math proof. Appended each phase. URLs are pages actually opened during
 - Quote: "josh.dorrell@wyo.gov"
 - Conflicts: none
 - Confidence: 75 (base T1, recency -20, officeholder +5)
+
+---
+
+## PHASE 5 — Gap/Conflict Sweep + Finalize
+
+### R06 — org email still UNVERIFIED after deeper search. contact form only — https://business.ca.gov/about/contact-us/ ; ALT: CalCRG@gobiz.ca.gov (program specific), CEG@gobiz.ca.gov (program specific), international@
+
+### R16 — recovered org email: `transparency@iedc.in.gov` (VALIDATED, T1, conf 95) — https://transparencyportal.iedc.in.gov/home
+
+### R23 — org email still UNVERIFIED after deeper search. contact form only — https://www.mass.gov/orgs/executive-office-of-economic-development; ALT: Press Contact: margaret.m.quackenbush@mass.gov; PRR: HED.RAO@massma
+
+### R24 — recovered org email: `webmaster@michigan.org` (VALIDATED, T1, conf 95) — https://www.miplace.org/about-us/terms-and-conditions/
+
+### R28 — org email still UNVERIFIED after deeper search. contact form only — [Official Contact Page](https://commerce.mt.gov/Contact/index). ALT: docadministrativerules@mt.gov (rules); publicrecords@mt.gov (records); 
+
+### R29 — org email still UNVERIFIED after deeper search. contact form only — https://opportunity.nebraska.gov/contact/#form; ALT: ded.info@nebraska.gov (legacy 2020), ded.publiccomment@nebraska.gov (public hearings), 
+
+### R38 — org email still UNVERIFIED after deeper search. contact form only — https://development.ohio.gov/about-us/contact-us; ALT: communication@development.ohio.gov (Public Records/Media), supplierdevelopment@develo
+
+### R50 — org email still UNVERIFIED after deeper search. contact form only — https://accd.vermont.gov/about-us/contact-us ALT: shelley.pembroke@vermont.gov (accessibility), john.kessler@vermont.gov (public records)
+
+---
+
+## FINAL STATE BLOCK
+```
+STATE v5
+R01 | dom=OK conv=first.last(40) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R02 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(95) | lead=INFERRED(45) | flags=
+R03 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(75) | flags=org email (info@doc.as) is not a generic
+R04 | dom=OK conv=CATCH_ALL_UNKNOWN(25) | office=Y | org=VALIDATED(62) | lead=VALIDATED(87) | flags=
+R05 | dom=OK conv=flast(40) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R06 | dom=OK conv=first.last(75) | office=Y | org=UNVERIFIED(5) | lead=VALIDATED(92) | flags=org email unverified: contact form only 
+R07 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=INFERRED(50) | flags=leadership email is convention-inferred 
+R08 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(95) | lead=VALIDATED(95) | flags=
+R09 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R10 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(87) | flags=org email (MediaInquiries@Commerce.fl.go
+R11 | dom=OK conv=finitial.last(90) | office=Y | org=VALIDATED(95) | lead=VALIDATED(75) | flags=
+R12 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(87) | lead=VALIDATED(92) | flags=
+R13 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(95) | lead=VALIDATED(67) | flags=
+R14 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R15 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(92) | flags=
+R16 | dom=OK conv=flast(75) | office=Y | org=VALIDATED(95) | lead=INFERRED(65) | flags=leadership email is convention-inferred 
+R17 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(75) | flags=
+R18 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(75) | flags=
+R19 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R20 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R21 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(70) | lead=VALIDATED(92) | flags=
+R22 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(95) | lead=VALIDATED(92) | flags=
+R23 | dom=OK conv=first.last(75) | office=Y | org=UNVERIFIED(5) | lead=VALIDATED(92) | flags=org email unverified: contact form only 
+R24 | dom=OK conv=flast(90) | office=Y | org=VALIDATED(95) | lead=VALIDATED(75) | flags=org email (webmaster@michigan.org) is no
+R25 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(87) | lead=VALIDATED(75) | flags=
+R26 | dom=OK conv=flast(75) | office=Y | org=VALIDATED(95) | lead=INFERRED(65) | flags=leadership email is convention-inferred 
+R27 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(70) | lead=VALIDATED(95) | flags=
+R28 | dom=OK conv=first.last(75) | office=Y | org=UNVERIFIED(5) | lead=VALIDATED(100) | flags=org email unverified: contact form only 
+R29 | dom=OK conv=first.last(75) | office=Y | org=UNVERIFIED(5) | lead=VALIDATED(100) | flags=org email unverified: contact form only 
+R30 | dom=OK conv=flast(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R31 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=INFERRED(40) | flags=leadership email is convention-inferred 
+R32 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=INFERRED(40) | flags=leadership email is convention-inferred 
+R33 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R34 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(80) | lead=VALIDATED(77) | flags=
+R35 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(70) | lead=VALIDATED(100) | flags=org email (privacy@edpnc.com) is not a g
+R36 | dom=OK conv=flast(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(75) | flags=
+R37 | dom=OK conv=flast(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(92) | flags=
+R38 | dom=OK conv=first.last(75) | office=Y | org=UNVERIFIED(5) | lead=VALIDATED(77) | flags=org email unverified: contact form only 
+R39 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(70) | lead=INFERRED(65) | flags=leadership email is convention-inferred 
+R40 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(70) | lead=VALIDATED(87) | flags=
+R41 | dom=OK conv=flast(90) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R42 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(90) | lead=INFERRED(65) | flags=leadership email is convention-inferred 
+R43 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(95) | lead=VALIDATED(67) | flags=
+R44 | dom=OK conv=flast(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R45 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(72) | lead=INFERRED(65) | flags=leadership email is convention-inferred 
+R46 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R47 | dom=OK conv=first.last(75) | office=Y | org=INFERRED(40) | lead=VALIDATED(67) | flags=
+R48 | dom=OK conv=flast(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(75) | flags=
+R49 | dom=OK conv=CATCH_ALL_UNKNOWN(25) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R50 | dom=OK conv=first.last(90) | office=Y | org=UNVERIFIED(5) | lead=VALIDATED(100) | flags=org email unverified: contact form only 
+R51 | dom=OK conv=flast(75) | office=Y | org=VALIDATED(90) | lead=VALIDATED(100) | flags=
+R52 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R53 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(80) | lead=VALIDATED(100) | flags=org email (commercewebmaster@wv.gov) is 
+R54 | dom=OK conv=first.last(90) | office=Y | org=VALIDATED(95) | lead=VALIDATED(100) | flags=
+R55 | dom=OK conv=first.last(75) | office=Y | org=VALIDATED(90) | lead=VALIDATED(75) | flags=
+COUNTS: org[V/I/U/C/D]=48/1/6/0/0 | lead[V/I/U/C/D]=46/9/0/0/0
+```
