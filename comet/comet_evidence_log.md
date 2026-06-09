@@ -1112,3 +1112,447 @@ Show-your-math proof. Appended each phase. URLs are pages actually opened during
 - Quote: "Email: info.wbc@wyo.gov"
 - Conflicts: ALT: info.wbc@wyo.gov; Note: The listed guess wbc.info@wyo.gov was not found on the official site; the correct general email is info.wbc@wyo.gov.
 - Confidence: 90 (base T1, recency +0)
+
+---
+
+## PHASE 4 — Leadership Email
+
+### R01 — Alabama — The Alabama Development Fund
+- Person: Ellen McNair (Secretary of Commerce)
+- Final: `ellen.mcnair@commerce.alabama.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.madeinalabama.com/resources/staff-directory/
+- Quote: "[Email Ellen McNair](mailto:ellen.mcnair@commerce.alabama.gov)"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R02 — Alaska — The Alaska Department of Commerce, Community, and Economic Development
+- Person: Julie Sande (Commissioner, Department of Commerce, Community and Economic Development)
+- Final: `julie.sande@alaska.gov` | Status: INFERRED | Basis: DIRECT_SOURCE | Tier 3
+- Evidence: https://globaledge.msu.edu/states/alaska/tradecontacts
+- Quote: "Email julie.sande@alaska.gov"
+- Conflicts: The official website lists a role-based email dcced.commissioner@alaska.gov. Third-party sources like globalEDGE and Black and Global Business Network provide julie.sande@alaska.gov, which follows the state's first.last convention.
+- Confidence: 45 (base T3, recency -20, officeholder +5)
+
+### R03 — American Samoa — The American Samoa Department of Commerce
+- Person: Ali’imuamua Magdalene P. Petaia (Director of Commerce)
+- Final: `lina.petaia@doc.as.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.doc.as.gov/about
+- Quote: "Aliimuamua Magdalene 'Lina' Petaia-Suisala\n\nDirector\nlina.petaia@doc.as.gov"
+- Conflicts: The website lists the person as Aliimuamua Magdalene 'Lina' Petaia-Suisala and provides the email lina.petaia@doc.as.gov.
+- Confidence: 75 (base T1, recency -20, officeholder +5)
+
+### R04 — Arizona — The Arizona Commerce Authority
+- Person: Sandra Watson (President & CEO)
+- Final: `sandraw@azcommerce.com` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://www.transportation.gov/sites/dot.gov/files/docs/policy-initiatives/automated-vehicles/351321/59-arizona-commerce-authority.pdf
+- Quote: "Sandra Watson, President/Chief Executive Officer, sandraw@azcommerce.com, 602.845.1215"
+- Conflicts: Email also matches the established convention for the executive team (FirstnameInitial@azcommerce.com) as seen on the official website.
+- Confidence: 87 (base T2, recency +0, officeholder +5)
+
+### R05 — Arkansas — The Arkansas Economic Development Commission
+- Person: Clint O'Neal (Executive Director)
+- Final: `coneal@arkansasedc.com` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.arkansasedc.com/leadership
+- Quote: "link \"Email action icon\" [ref=ref_398] (x=213,y=637) url=\"mailto:coneal@arkansasedc.com\""
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R06 — California — The California Governor's Office of Business and Economic Development
+- Person: Dee Dee Myers (Senior Advisor and Director)
+- Final: `Deedee.myers@gobiz.ca.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/summer-2021-reliability/tracking-energy-development/cpuc_2025_letter_to_sdge-(1).pdf
+- Quote: "Dee Dee Myers, Governor’s Office of Business Development (GO-Biz) Director, Deedee.myers@gobiz.ca.gov"
+- Conflicts: none
+- Confidence: 92 (base T2, recency +5, officeholder +5)
+
+### R07 — Colorado — The Colorado Office of Economic Development and International Trade
+- Person: Eve Lieberman (Executive Director)
+- Final: `eve.lieberman@state.co.us` | Status: INFERRED | Basis: CONVENTION_INFERENCE | Tier 4
+- Evidence: https://spl.cde.state.co.us/artemis/gaserials/ga42d62internet/ga42d622024internet.pdf
+- Quote: ""
+- Conflicts: The official staff directory does not list individual emails, but multiple official Colorado state government documents confirm the standard naming convention for state employees as firstname.lastname@state.co.us.
+- Confidence: 50 (base T4, recency -10, officeholder +5, conv-cap 75)
+
+### R08 — Connecticut — The Connecticut Department of Economic and Community Development
+- Person: Daniel H. O'Keefe (Commissioner)
+- Final: `daniel.okeefe@ct.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://egov.ct.gov/PMC/Event/Details/29319
+- Quote: "Daniel O'Keefe (Maureen Brierton) Commissioner designate Economic & Community Development 450 Columbus Boulevard, Suite 5 Hartford, CT 06103 860-500-2310 (O) daniel.okeefe@ct.gov"
+- Conflicts: none
+- Confidence: 95 (base T1, recency +0, officeholder +5)
+
+### R09 — Delaware — The Delaware Division of Small Business
+- Person: CJ Bell (Division Director)
+- Final: `cj.bell@delaware.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://mmp.delaware.gov/Bids/Details/8795
+- Quote: "Contact Information\ncj.bell@delaware.gov"
+- Conflicts: The main contact page (https://business.delaware.gov/contact/) lists CJ Bell with the general email business@delaware.gov, but official state bid documents (https://mmp.delaware.gov/Bids/Details/8795) and RFPs (https://bidcondocs.delaware.gov/STA/STA25101A-SSBCI_ACCE-rfp.pdf) explicitly list cj.bell@delaware.gov as his direct contact.
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R10 — Florida — FloridaCommerce
+- Person: J. Alex Kelly (Secretary of Commerce)
+- Final: `alex.kelly@commerce.fl.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://www.fedconline.org/sites/default/files/content-files/FEDC%20Webinar%20PowerPoint%20-%20FC%20Sec%20Alex%20Kelly.pdf
+- Quote: "Thank you! alex.kelly@commerce.fl.gov Cell: (850) 443-8626 floridajobs.org selectflorida.org floridadisaster.biz"
+- Conflicts: The email address was confirmed via an official webinar presentation by Secretary J. Alex Kelly.
+- Confidence: 87 (base T2, recency +0, officeholder +5)
+
+### R11 — Georgia — The Georgia Department of Economic Development
+- Person: Pat Wilson (Commissioner)
+- Final: `pwilson@georgia.org` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://directory.doas.ga.gov/employee/Details/2699
+- Quote: "Pat Wilson Commissioner 404-962-4003 pwilson@georgia.org Georgia Department of Economic Development (GDEcD)"
+- Conflicts: none
+- Confidence: 75 (base T1, recency -20, officeholder +5)
+
+### R12 — Guam — The Guam Economic Development Authority
+- Person: Christina Garcia (CEO / Administrator)
+- Final: `cgarcia@investguam.com` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://guamlegislature.gov/38th_Guam_Legislature/Mess_Comms_38th/Doc.%20No.%2038GL-26-2307.pdf
+- Quote: "To: "Speaker Frank Blas Jr." <speakerblas@guamlegislature.gov> Cc: Tina Garcia <cgarcia@investguam.com>, Carlos Bordallo <carlos.bordallo@investguam.com>..."
+- Conflicts: A 2023 Venture Capital Program PDF listed tina.garcia@investguam.com, but 2025 and 2026 official communications from GEDA to the Guam Legislature consistently use cgarcia@investguam.com for Christina "Tina" Garcia.
+- Confidence: 92 (base T2, recency +5, officeholder +5)
+
+### R13 — Hawaii — The Hawaii Department of Business, Economic Development & Tourism
+- Person: James Kunane Tokioka (Director)
+- Final: `James.tokioka@hawaii.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://www.hawaiitourismauthority.org/media/12335/handout-06b-hta-response-to-representative-quinlans-email-dated-june-15-2023.pdf
+- Quote: "To: Senator Lynn DeCoite sendecoite@capitol.hawaii.gov, James.tokioka@hawaii.gov, Isaac Choy Isaac@gohta.net, Kalani Kaanaana Kalani@gohta.net, luis.p.salaveria@hawaii.gov, sylvia.luke@hawaii.gov..."
+- Conflicts: none
+- Confidence: 67 (base T2, recency -20, officeholder +5)
+
+### R14 — Idaho — The Idaho Department of Commerce
+- Person: Tom Kealey (Director)
+- Final: `tom.kealey@commerce.idaho.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://commerce.idaho.gov/contact-us/
+- Quote: "tom.kealey@commerce.idaho.gov"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R15 — Illinois — The Illinois Department of Commerce and Economic Opportunity
+- Person: Kristin Richards (Director)
+- Final: `kristin.richards@illinois.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://dceo.illinois.gov/content/dam/soi/en/web/dceo/communityservices/homeweatherization/documents/2026-ihwap-doe-state-plan-draft-v2.pdf
+- Quote: "Ms Kristin Richards Director ... Email: kristin.richards@illinois.gov 07/24/2025"
+- Conflicts: none
+- Confidence: 92 (base T2, recency +5, officeholder +5)
+
+### R16 — Indiana — The Indiana Economic Development Corporation
+- Person: David J. Adams (Secretary of Commerce)
+- Final: `DAdams@iedc.in.gov` | Status: INFERRED | Basis: CONVENTION_INFERENCE | Tier 4
+- Evidence: https://iedc.in.gov/contact
+- Quote: ""
+- Conflicts: No direct email found for David J. Adams on the official site. The convention 'flast' is consistently used for other leadership and staff members (e.g., LJagger@iedc.in.gov, MSaltanovitz@iedc.in.gov, SKabel@iedc.in.gov).
+- Confidence: 65 (base T4, recency +5, officeholder +5, conv-cap 75)
+
+### R17 — Iowa — The Iowa Economic Development Authority
+- Person: Debi Durham (Director, Iowa Economic Development Authority & Iowa Finance Authority)
+- Final: `debi.durham@iowaeda.com` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.legis.iowa.gov/publications/departments/details?groupID=19243
+- Quote: "Director Debi Durham 515.897.9919 debi.durham@iowaeda.com"
+- Conflicts: The agency's official profile page for the Director lists director@iowaeda.com as the contact address.
+- Confidence: 75 (base T1, recency -20, officeholder +5)
+
+### R18 — Kansas — The Kansas Department of Commerce
+- Person: David Toland (Lieutenant Governor and Secretary of Commerce)
+- Final: `David.Toland@ks.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.kansascommerce.gov/contact/
+- Quote: "Lieutenant Governor and Secretary of Commerce David.Toland@ks.gov"
+- Conflicts: none
+- Confidence: 75 (base T1, recency -20, officeholder +5)
+
+### R19 — Kentucky — The Kentucky Cabinet for Economic Development
+- Person: Jeff Noel (Secretary of the Cabinet for Economic Development)
+- Final: `Jeff.Noel@ky.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://newkentuckyhome.ky.gov/Home/Staff
+- Quote: "Jeff.Noel@ky.gov Jeff Noel Secretary Office of the Secretary"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R20 — Louisiana — Louisiana Economic Development
+- Person: Susan Bourgeois (Secretary)
+- Final: `susan.bourgeois@la.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.legis.la.gov/legis/BoardMembersPrint.aspx?b=187
+- Quote: "Email: susan.bourgeois@la.gov"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R21 — Maine — The Maine Department of Economic and Community Development
+- Person: Michael Duguay (Commissioner)
+- Final: `michael.duguay@maine.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://mpuc-cms.maine.gov/CQM.Public.WebUI/Common/CaseMaster.aspx?CaseNumber=2025-00013
+- Quote: "Michael A. Duguay Department of Economic and Community Development ... Email ID: michael.duguay@maine.gov"
+- Conflicts: none
+- Confidence: 92 (base T2, recency +5, officeholder +5)
+
+### R22 — Maryland — The Maryland Department of Commerce
+- Person: Harry Coker, Jr. (Secretary of Commerce)
+- Final: `harry.coker@maryland.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://msa.maryland.gov/msa/mdmanual/08conoff/cabinet/html/eco.html
+- Quote: "e-mail: harry.coker@maryland.gov"
+- Conflicts: Statewide directory detail listing shows mona.miles2@maryland.gov, who is his Executive Administrator. Official archives explicitly list his direct email.
+- Confidence: 92 (base T2, recency +5, officeholder +5)
+
+### R23 — Massachusetts — The Massachusetts Executive Office of Economic Development
+- Person: Eric Paley (Secretary)
+- Final: `Eric.Paley@mass.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://maoig.gov/wp-content/uploads/Recent-Action-to-Reclaim-Tax-Incentives-OIG-Letter.pdf
+- Quote: "Secretary Mathew Gorkowicz  Secretary Eric Paley ... Matthew.Gorzkowicz@mass.gov Eric.Paley@mass.gov"
+- Conflicts: none
+- Confidence: 92 (base T2, recency +5, officeholder +5)
+
+### R24 — Michigan — The Michigan Economic Development Corporation
+- Person: Quentin L. Messer, Jr. (Chief Executive & Economic Competitiveness Officer)
+- Final: `messerq@michigan.org` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.michiganbusiness.org/about-medc/medc-leadership/quentin-l-messer-jr/
+- Quote: "messerq@michigan.org"
+- Conflicts: none
+- Confidence: 75 (base T1, recency -20, officeholder +5)
+
+### R25 — Minnesota — The Minnesota Department of Employment and Economic Development
+- Person: Matt Varilek (Commissioner)
+- Final: `matt.varilek@state.mn.us` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.eqb.state.mn.us/matt-varilek
+- Quote: "Email\nmatt.varilek@state.mn.us"
+- Conflicts: none
+- Confidence: 75 (base T1, recency -20, officeholder +5)
+
+### R26 — Mississippi — The Mississippi Development Authority
+- Person: Bill Cork (Executive Director)
+- Final: `bcork@mississippi.org` | Status: INFERRED | Basis: CONVENTION_INFERENCE | Tier 4
+- Evidence: https://www.linkedin.com/posts/william-cork-46170519b_mississippi-development-authority-activity-7392290264385507328-EEiR
+- Quote: ""
+- Conflicts: none
+- Confidence: 65 (base T4, recency +5, officeholder +5, conv-cap 75)
+
+### R27 — Missouri — The Missouri Department of Economic Development
+- Person: Michelle Hataway (Director)
+- Final: `michelle.hataway@ded.mo.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://engage2.mo.gov/change-champions-old/
+- Quote: "michelle.hataway@ded.mo.gov – Michelle Hataway"
+- Conflicts: The email was found in a list of 'Change Champions' on an official MO.gov site and in an MEDC Board document.
+- Confidence: 95 (base T1, recency +0, officeholder +5)
+
+### R28 — Montana — The Montana Department of Commerce
+- Person: Marta Bertoglio (Director)
+- Final: `marta.bertoglio@mt.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://directory.mt.gov/govt/state-dir/agency/commerce
+- Quote: "Director, Marta Bertoglio marta.bertoglio@mt.gov 841-2745"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R29 — Nebraska — The Nebraska Department of Economic Development
+- Person: Maureen Larsen (Director)
+- Final: `maureen.larsen@nebraska.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://opportunity.nebraska.gov/contact/
+- Quote: "Maureen Larsen Director maureen.larsen@nebraska.gov 800-426-6505"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R30 — Nevada — The Nevada Governor's Office of Economic Development
+- Person: Tom Burns (Executive Director)
+- Final: `tjburns@goed.nv.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://goed.nv.gov/goed-team/
+- Quote: "[Email TOM BURNS](mailto:tjburns@goed.nv.gov)"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R31 — New Hampshire — The New Hampshire Department of Business and Economic Affairs
+- Person: Lucy Lange (Commissioner)
+- Final: `lucy.lange@livefree.nh.gov` | Status: INFERRED | Basis: CONVENTION_INFERENCE | Tier 4
+- Evidence: https://www.nheconomy.com/About-Us/Meet-the-Staff
+- Quote: ""
+- Conflicts: none
+- Confidence: 40 (base T4, recency -20, officeholder +5, conv-cap 75)
+
+### R32 — New Jersey — The New Jersey Economic Development Authority
+- Person: Evan Weiss (Chief Executive Officer)
+- Final: `evan.weiss@njeda.gov` | Status: INFERRED | Basis: CONVENTION_INFERENCE | Tier 4
+- Evidence: https://buildsbio.org/wp-content/uploads/2026/02/NJ-Life-Sciences-Research-Report-2025.pdf
+- Quote: ""
+- Conflicts: none
+- Confidence: 40 (base T4, recency -20, officeholder +5, conv-cap 75)
+
+### R33 — New Mexico — The New Mexico Economic Development Department
+- Person: Rob Black (Cabinet Secretary)
+- Final: `Rob.Black@edd.nm.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.edd.newmexico.gov/about-us/directory/
+- Quote: "Rob Black | Cabinet Secretary | Rob.Black@edd.nm.gov | 505-469-5946"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R34 — New York — Empire State Development
+- Person: Hope Knight (President, CEO, and Commissioner)
+- Final: `Hope.Knight@esd.ny.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7BB0385F8F-0000-C01C-B094-682BA94B7A69%7D
+- Quote: "Hope.Knight@esd.ny.gov... Hope Knight, President, CEO and Commissioner Empire State Development"
+- Conflicts: none
+- Confidence: 77 (base T2, recency -10, officeholder +5)
+
+### R35 — North Carolina — The Economic Development Partnership of North Carolina
+- Person: Christopher Chung (Chief Executive Officer)
+- Final: `christopher.chung@edpnc.com` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://edpnc.com/who-we-are/
+- Quote: "Christopher Chung Chief Executive Officer EMAIL christopher.chung@edpnc.com"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R36 — North Dakota — The North Dakota Department of Commerce
+- Person: Chris Schilken (Commissioner)
+- Final: `cschilken@nd.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.commerce.nd.gov/contact-us/commerce-team-members/commerce-administrative-team
+- Quote: "Chris Schilken (linked to mailto:cschilken@nd.gov)"
+- Conflicts: none
+- Confidence: 75 (base T1, recency -20, officeholder +5)
+
+### R37 — Northern Mariana Islands — The Department of Commerce for the Commonwealth of the Northern Mariana Islands
+- Person: Remedio C. Mafnas (Secretary of Commerce)
+- Final: `secretary.mafnas@commerce.gov.mp` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://opd.gov.mp/assets/gov_directory.pdf
+- Quote: "Remedio C. Mafnas, Secretary, 670-664-3000/3077, secretary.mafnas@commerce.gov.mp"
+- Conflicts: A 2019 document listed "secretary@commerce.gov.mp", but the 2025 CNMI Government Directory explicitly lists "secretary.mafnas@commerce.gov.mp" for the current Secretary.
+- Confidence: 92 (base T2, recency +5, officeholder +5)
+
+### R38 — Ohio — The Ohio Department of Development
+- Person: Lydia Mihalik (Director)
+- Final: `Lydia.Mihalik@development.ohio.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://dam.assets.ohio.gov/image/upload/development.ohio.gov/community/coummunityresources/Draft_FY24_Preservation_and_Reinvestment_Initiative_for_Community_Enhancement_PRICE_Program_Application.pdf
+- Quote: "Lydia Mihalik Director, Ohio Department of Development 614-466-0268 Lydia.Mihalik@development.ohio.gov"
+- Conflicts: none
+- Confidence: 77 (base T2, recency -10, officeholder +5)
+
+### R39 — Oklahoma — The Oklahoma Department of Commerce
+- Person: Deborah Moorad (Secretary of Commerce)
+- Final: `deborah.moorad@okcommerce.gov` | Status: INFERRED | Basis: CONVENTION_INFERENCE | Tier 4
+- Evidence: https://www.okcommerce.gov/about-us/our-team/
+- Quote: ""
+- Conflicts: John Budd serves as the CEO of the Oklahoma Department of Commerce, while Deborah Moorad is the Secretary of Commerce. No direct email for Moorad was found on the official site, but the department-wide convention for senior leadership is first.last@okcommerce.gov.
+- Confidence: 65 (base T4, recency +5, officeholder +5, conv-cap 75)
+
+### R40 — Oregon — Business Oregon
+- Person: Sophorn Cheang (Director)
+- Final: `Sophorn.Cheang@biz.oregon.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://www.oregonlegislature.gov/cis/GovToGovReports/Annual%20Report%20(Business%20Oregon)%202025.pdf
+- Quote: "Sophorn Cheang, Director ... Sophorn.Cheang@biz.oregon.gov"
+- Conflicts: The Business Oregon staff directory links her name to business.oregon@biz.oregon.gov, which appears to be a general inbox for the Director's office. The official footer also lists business.oregon@oregon.gov.
+- Confidence: 87 (base T2, recency +0, officeholder +5)
+
+### R41 — Pennsylvania — The Pennsylvania Department of Community & Economic Development
+- Person: Rick Siger (Secretary)
+- Final: `fsiger@pa.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.pa.gov/agencies/dep/public-participation/environmental-quality-board/eqb-membership-list
+- Quote: "Honorable Frederick Siger Secretary of Community and Economic Development 400 North Street Keystone Building, 4th Floor Harrisburg, PA 17120 fsiger@pa.gov"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R42 — Puerto Rico — The Puerto Rico Department of Economic Development and Commerce
+- Person: Roberto Lefranc Fortuño (Acting Secretary (Deputy Secretary))
+- Final: `roberto.lefranc@ddec.pr.gov` | Status: INFERRED | Basis: CONVENTION_INFERENCE | Tier 4
+- Evidence: https://federalcontracting.ddec.pr.gov/contact-us
+- Quote: ""
+- Conflicts: Roberto Lefranc Fortuño is the current Acting Secretary (Deputy Secretary) as confirmed by official DDEC news releases after the resignation of Sebastian Negrón Reichard. He also serves as Executive Director of PRIDCO. The DDEC email convention first.last@ddec.pr.gov is strongly supported by numerous employee listings.
+- Confidence: 65 (base T4, recency +5, officeholder +5, conv-cap 75)
+
+### R43 — Rhode Island — Rhode Island Commerce
+- Person: Stefan Pryor (Secretary of Commerce)
+- Final: `Stefan.Pryor@commerce.ri.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://creconline.org/wp-content/uploads/2019/01/SLC-Attendee-List-final-1.pdf
+- Quote: "Stefan Pryor \nSecretary of Commerce \nState of Rhode Island \nStefan.Pryor@commerce.ri.gov"
+- Conflicts: While the organization's main domain is commerceri.com, the Secretary of Commerce position historically uses the commerce.ri.gov domain as seen on official attendee lists. Current staff listings show a mix of @commerceri.com and @commerce.ri.gov (e.g., Giselle Mahoney). The direct email for Stefan Pryor was found on an official attendee list for a state economic development conference.
+- Confidence: 67 (base T2, recency -20, officeholder +5)
+
+### R44 — South Carolina — The South Carolina Department of Commerce
+- Person: Harry M. Lightsey III (Secretary of Commerce)
+- Final: `hlightsey@sccommerce.com` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.sccommerce.com/about/open-access-data/south-carolina-ireland-trade-commission
+- Quote: "Secretary Harry Lightsey, SC Department of Commerce hlightsey@sccommerce.com"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R45 — South Dakota — The South Dakota Governor's Office of Economic Development
+- Person: Bill Even (Commissioner)
+- Final: `bill.even@state.sd.us` | Status: INFERRED | Basis: CONVENTION_INFERENCE | Tier 4
+- Evidence: https://rules.sd.gov/Uploads/922_PublicNotice.pdf
+- Quote: ""
+- Conflicts: Official documents from Bill Even's previous state roles used bill.even@state.sd.us. Current staff like Jack Valentine use first.last@state.sd.us (jack.valentine@state.sd.us). Third-party sources for GOED specifically mention first.last@sdgoed.com as a common pattern, but state.sd.us is the primary domain for government personnel communications in official state documents.
+- Confidence: 65 (base T4, recency +5, officeholder +5, conv-cap 75)
+
+### R46 — Tennessee — The Tennessee Department of Economic and Community Development
+- Person: Stuart C. McWhorter (Deputy Governor and Commissioner)
+- Final: `stuart.mcwhorter@tn.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://tnecd.com/meet-the-team/
+- Quote: "Stuart C. McWhorter Deputy Governor and TNECD Commissioner stuart.mcwhorter@tn.gov"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R47 — Texas — The Texas Office of the Governor, Economic Development & Tourism division
+- Person: Adriana Cruz (Executive Director, Texas Economic Development & Tourism Office)
+- Final: `adriana.cruz@gov.texas.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 2
+- Evidence: https://reshoringinstitute.org/wp-content/uploads/2021/03/texasstatepaper.pdf
+- Quote: "Contact Name: Adriana Cruz ... Contact Email Address: adriana.cruz@gov.texas.gov"
+- Conflicts: none
+- Confidence: 67 (base T2, recency -20, officeholder +5)
+
+### R48 — U.S. Virgin Islands — The U.S. Virgin Islands Economic Development Authority
+- Person: Wayne L. Biggs, Jr. (Chief Executive Officer)
+- Final: `wbiggs@usvieda.org` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.usvieda.org/sites/default/files/rfp/RFP002-2020_A&E%20Services_Fleming%20Building_0.pdf
+- Quote: "Request for additional information clarifying the Scope of Work should be directed in writing to Wayne Biggs, Jr., Interim Chief Executive Officer at wbiggs@usvieda.org."
+- Conflicts: The email wbiggs@usvieda.org was found in official RFPs and procurement documents from the USVIEDA and the Virgin Islands Department of Property and Procurement. Other employee emails follow the {first_initial}{last_name}@usvieda.org pattern (e.g., nmarchena@usvieda.org, spetersen@usvieda.org, kwebbe@usvieda.org).
+- Confidence: 75 (base T1, recency -20, officeholder +5)
+
+### R49 — Utah — The Utah Governor's Office of Economic Opportunity
+- Person: Jefferson Moss (Commissioner / Executive Director)
+- Final: `jrmoss@utah.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://business.utah.gov/team/
+- Quote: "jrmoss@utah.gov"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R50 — Vermont — The Vermont Agency of Commerce and Community Development
+- Person: Lindsay Kurrle (Secretary)
+- Final: `lindsay.kurrle@vermont.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://accd.vermont.gov/about-us/contact-us
+- Quote: "Lindsay Kurrle Secretary 802-828-3080 lindsay.kurrle@vermont.gov"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R51 — Virginia — The Virginia Economic Development Partnership
+- Person: Jason El Koubi (President and CEO)
+- Final: `jelkoubi@vedp.org` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://www.vedp.org/our-team
+- Quote: "Jason El Koubi\nPresident and CEO\n804.545.5616\njelkoubi@vedp.org"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R52 — Washington — The Washington State Department of Commerce
+- Person: Sarah Clifthorne (Interim Director)
+- Final: `sarah.clifthorne@commerce.wa.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://choosewashingtonstate.com/about-us/meet-our-team/
+- Quote: "Sarah Clifthorne – Interim Director, Washington State Department of Commerce [sarah.clifthorne@commerce.wa.gov](mailto:sarah.clifthorne@commerce.wa.gov)"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R53 — West Virginia — The West Virginia Department of Economic Development
+- Person: Todd Hooker (Acting Executive Director)
+- Final: `Todd.E.Hooker@wv.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://westvirginia.gov/connect-with-us/meet-the-team/
+- Quote: "Todd Hooker Acting Executive Director Todd.E.Hooker@wv.gov"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R54 — Wisconsin — The Wisconsin Economic Development Corporation
+- Person: John W. Miller (Secretary and CEO)
+- Final: `john.miller@wedc.org` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://wedc.org/contact-us/staff-directory/
+- Quote: "John W. Miller Secretary/Chief Executive Officer john.miller@wedc.org"
+- Conflicts: none
+- Confidence: 100 (base T1, recency +5, officeholder +5)
+
+### R55 — Wyoming — The Wyoming Business Council
+- Person: Josh Dorrell (Chief Executive Officer)
+- Final: `josh.dorrell@wyo.gov` | Status: VALIDATED | Basis: DIRECT_SOURCE | Tier 1
+- Evidence: https://wyomingbusiness.org/about/team/
+- Quote: "josh.dorrell@wyo.gov"
+- Conflicts: none
+- Confidence: 75 (base T1, recency -20, officeholder +5)
